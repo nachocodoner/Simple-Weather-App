@@ -1,5 +1,5 @@
 # Simple-weather-app
-=========
+------------------------------------
 
 This Java console application displays the weather given a city selected by the user. 
 
